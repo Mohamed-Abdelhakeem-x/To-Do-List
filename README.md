@@ -70,7 +70,9 @@ GitHub: [To-Do-List](https://github.com/Mohamed-Abdelhakeem-x/To-Do-List)
 
 ---
 
-## 👤 Author
+## 📝 License
 
-**Mohamed Ahmed Mohamed Abdelhakeem**  
-Department of Software Engineering
+This project is licensed under the [MIT License](LICENSE).
+---
+
+**Feel free to contribute and enhance the project! 🚀**
